@@ -1,3 +1,3 @@
 # snake
-first game try
+first game try: 
 snake game 
